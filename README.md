@@ -64,13 +64,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abel-Bonilla&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
 
 <div align="center">
 
@@ -78,11 +72,6 @@
 
 </div>
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abel-Bonilla&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-
-</div>
 
 ---
 
