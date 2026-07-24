@@ -18,8 +18,7 @@
 
 - 🔭 Passionate about building impactful software and solving real-world problems
 - 🌱 Always learning and exploring new technologies
-- 💡 I love working on open-source projects and collaborating with the community
-- ⚡ Fun fact: I debug code better with coffee ☕
+- ⚡ Fun fact: I debug code better with good music and a cup of tea.
 
 ---
 
