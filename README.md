@@ -33,7 +33,7 @@
 ### 🌐 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=,tailwind,bootstrap,sass,vite" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,vite" alt="Frontend" />
 </p>
 
 ### ⚙️ Backend
