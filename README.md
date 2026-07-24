@@ -28,37 +28,37 @@
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,cpp,go,php,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,cs,php,html,css" alt="Languages" />
 </p>
 
 ### 🌐 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,bootstrap,sass,webpack,vite" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=,tailwind,bootstrap,sass,vite" alt="Frontend" />
 </p>
 
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,django,spring,dotnet,graphql" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
 </p>
 
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,firebase" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" alt="Databases" />
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,github,githubactions,linux,nginx" alt="DevOps" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,githubactions,linux,nginx" alt="DevOps" />
 </p>
 
 ### 🧰 Tools & Others
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,jest,vitest" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman" alt="Tools" />
 </p>
 
 ---
@@ -67,7 +67,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abel-Bonilla&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Abel's GitHub Stats" />
+
 &nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abel-Bonilla&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
